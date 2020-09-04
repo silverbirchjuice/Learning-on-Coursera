@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8"> //standalone tag
+	<title>Coursera</title> //*required tag for the head part
+</head> //describes the main content of the page (metadata)
+
+<body> //contains everything visible to the user
+	This is the first time I am using HTML... with KNOWLEDGE!
+</body>
+</html> 
